@@ -1,0 +1,30 @@
+---
+id: bookmark_zeneca_vibe_code
+url: https://x.com/Zeneca/status/203167408203993507?s=20
+source: x
+added: 2026-04-03T13:55:45.184439
+priority: 6.0
+bucket: unknown
+tags: 
+---
+
+# How to Vibe Code a Prediction Model
+
+## Source
+[Original Link](https://x.com/Zeneca/status/203167408203993507?s=20)
+
+## Summary
+Step-by-step guide to building prediction models with AI. No ML background required.
+
+## Why This Matters
+
+
+## Actionable Items
+
+
+## Concepts
+
+
+## Personal Notes
+<!-- Add your thoughts here -->
+
