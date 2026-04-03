@@ -2,7 +2,7 @@
 id: bookmark_488e68ca4a2f
 url: https://x.com/karpathy/status/2039805659525644595?s=46
 source: x
-added: 2026-04-03T13:55:45.184564
+added: 2026-04-03T15:24:18.327129
 priority: 6.5
 bucket: unknown
 tags: openclaw, agents, autoresearch, llm

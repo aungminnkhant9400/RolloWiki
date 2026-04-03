@@ -2,7 +2,7 @@
 id: bookmark_4883692206fa
 url: https://x.com/zostaff/status/2036084232519324147?s=46
 source: x
-added: 2026-04-03T13:55:45.176366
+added: 2026-04-03T15:24:18.304948
 priority: 8.0
 bucket: unknown
 tags: 

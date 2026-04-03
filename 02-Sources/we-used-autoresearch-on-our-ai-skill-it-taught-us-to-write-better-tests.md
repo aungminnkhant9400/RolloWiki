@@ -2,7 +2,7 @@
 id: bookmark_82c15a55f916
 url: https://x.com/lotte_verheyden/status/2037665098983190904?s=20
 source: x
-added: 2026-04-03T13:55:45.178221
+added: 2026-04-03T15:24:18.309479
 priority: 5.0
 bucket: unknown
 tags: 

@@ -1,30 +1,28 @@
 ---
-id: concept-autoresearch
-name: autoresearch
+id: concept-llm
+name: llm
 type: concept
-mentions: 3
+mentions: 2
 ---
 
-# Autoresearch
+# Llm
 
 ## Overview
-Auto-generated concept page from 3 sources.
+Auto-generated concept page from 2 sources.
 
 ## Sources
 - [[llm-knowledge-bases]]
-- [[building-a-personal-knowledge-base-for-my-agents-is-increasingly-where-i-spend]]
 - [[oh-and-in-the-natural-extrapolation-you-could-imagine-that-every-question-to-a]]
 
 
 ## Related Concepts (Auto-Linked)
 
-- [[llm]] (shared 2 sources, similarity: 0.67)
-- [[automation]] (shared 2 sources, similarity: 0.33)
-- [[agents]] (shared 2 sources, similarity: 0.4)
+- [[autoresearch]] (shared 2 sources, similarity: 0.67)
+- [[openclaw]] (shared 1 sources, similarity: 0.33)
 
-## Synthesized Insights: Autoresearch
+## Synthesized Insights: Llm
 
-Based on analysis of 3 sources:
+Based on analysis of 2 sources:
 
 ### Key Themes
 1. Multi-agent LLM systems can autonomously handle complex research pipelines from question to final report
@@ -36,8 +34,7 @@ Based on analysis of 3 sources:
 ### Top Sources
 - **Oh and in the natural extrapolation, you could imagine that every question to a...** (priority: 7.0)
 - **LLM Knowledge Bases** (priority: 6.5)
-- **Building a personal knowledge base for my agents is increasingly where I spend...** (priority: 5.5)
 
 ### Synthesis Generated
 *Last updated: 2026-04-03 15:24*
-*Sources analyzed: 3*
+*Sources analyzed: 2*

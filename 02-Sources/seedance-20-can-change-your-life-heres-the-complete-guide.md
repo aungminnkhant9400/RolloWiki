@@ -2,7 +2,7 @@
 id: bookmark_8eb8518e0d28
 url: https://x.com/starks_arq/status/2037928570257903983?s=46
 source: x
-added: 2026-04-03T13:55:45.178608
+added: 2026-04-03T15:24:18.310648
 priority: 2.5
 bucket: unknown
 tags: 

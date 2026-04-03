@@ -2,7 +2,7 @@
 id: synthesis-autoresearch-methodology
 type: cross-cutting-synthesis
 concepts: autoresearch, automation
-generated: 2026-04-03T14:17:58.073137
+generated: 2026-04-03T15:24:18.409571
 ---
 
 # Autoresearch Methodology

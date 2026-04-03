@@ -2,7 +2,7 @@
 id: bookmark_0xsunnft_2035722514090062
 url: https://x.com/0xsunnft/status/2035722514090062271?s=46
 source: x
-added: 2026-04-03T13:55:45.175233
+added: 2026-04-03T15:24:18.302161
 priority: 6.0
 bucket: unknown
 tags: 

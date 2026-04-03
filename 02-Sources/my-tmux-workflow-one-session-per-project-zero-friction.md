@@ -2,7 +2,7 @@
 id: bookmark_e3c3c6b1affc
 url: https://x.com/fcoury/status/2038693821543014506?s=46
 source: x
-added: 2026-04-03T13:55:45.181660
+added: 2026-04-03T15:24:18.320053
 priority: 6.5
 bucket: unknown
 tags: 

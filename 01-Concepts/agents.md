@@ -20,9 +20,9 @@ Auto-generated concept page from 4 sources.
 ## Related Concepts (Auto-Linked)
 
 - [[ai-tools]] (shared 3 sources, similarity: 0.6)
-- [[automation]] (shared 3 sources, similarity: 0.6)
-- [[multi-agent]] (shared 2 sources, similarity: 0.4)
-- [[autoresearch]] (shared 2 sources, similarity: 0.5)
+- [[automation]] (shared 3 sources, similarity: 0.5)
+- [[multi-agent]] (shared 2 sources, similarity: 0.33)
+- [[autoresearch]] (shared 2 sources, similarity: 0.4)
 
 ## Synthesized Insights: Agents
 
@@ -41,5 +41,5 @@ Based on analysis of 4 sources:
 - **LLM Knowledge Bases** (priority: 6.5)
 
 ### Synthesis Generated
-*Last updated: 2026-04-03 14:17*
+*Last updated: 2026-04-03 15:24*
 *Sources analyzed: 4*

@@ -2,7 +2,7 @@
 id: bookmark_minimax_m27_official
 url: https://x.com/MiniMax_AI/status/2034335605145182659?s=20
 source: x
-added: 2026-04-03T13:55:45.183399
+added: 2026-04-03T15:24:18.324611
 priority: 4.0
 bucket: unknown
 tags: 

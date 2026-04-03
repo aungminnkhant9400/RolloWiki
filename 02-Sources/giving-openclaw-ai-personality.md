@@ -2,7 +2,7 @@
 id: bookmark_steipete_soul
 url: https://x.com/steipete/status/2020704611640705485?s=46
 source: x
-added: 2026-04-03T13:55:45.184147
+added: 2026-04-03T15:24:18.326294
 priority: 5.5
 bucket: unknown
 tags: 

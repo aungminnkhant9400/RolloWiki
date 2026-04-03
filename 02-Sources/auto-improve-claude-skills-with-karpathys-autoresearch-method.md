@@ -2,7 +2,7 @@
 id: bookmark_itsolelehmann_2033919415771713715
 url: https://x.com/itsolelehmann/status/2033919415771713715?s=20
 source: x
-added: 2026-04-03T13:55:45.182861
+added: 2026-04-03T15:24:18.322876
 priority: 8.5
 bucket: unknown
 tags: 

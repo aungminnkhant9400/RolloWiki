@@ -17,7 +17,7 @@ Auto-generated concept page from 2 sources.
 
 ## Related Concepts (Auto-Linked)
 
-- [[autoresearch]] (shared 1 sources, similarity: 0.33)
+- [[llm]] (shared 1 sources, similarity: 0.33)
 
 ## Synthesized Insights: Openclaw
 
@@ -35,5 +35,5 @@ Based on analysis of 2 sources:
 - **One thing I've done this year is:** (priority: 6.5)
 
 ### Synthesis Generated
-*Last updated: 2026-04-03 14:17*
+*Last updated: 2026-04-03 15:24*
 *Sources analyzed: 2*

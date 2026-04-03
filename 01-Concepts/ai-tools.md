@@ -19,8 +19,8 @@ Auto-generated concept page from 4 sources.
 
 ## Related Concepts (Auto-Linked)
 
-- [[automation]] (shared 4 sources, similarity: 1.0)
-- [[multi-agent]] (shared 3 sources, similarity: 0.75)
+- [[automation]] (shared 4 sources, similarity: 0.8)
+- [[multi-agent]] (shared 3 sources, similarity: 0.6)
 - [[agents]] (shared 3 sources, similarity: 0.6)
 
 ## Synthesized Insights: Ai Tools
@@ -40,5 +40,5 @@ Based on analysis of 4 sources:
 - **One thing I've done this year is:** (priority: 6.5)
 
 ### Synthesis Generated
-*Last updated: 2026-04-03 14:17*
+*Last updated: 2026-04-03 15:24*
 *Sources analyzed: 4*
