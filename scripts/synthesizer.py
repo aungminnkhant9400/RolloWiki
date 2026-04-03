@@ -1,0 +1,174 @@
+#!/usr/bin/env python3
+"""
+RolloWiki Synthesizer
+Generates LLM-powered insights by combining multiple sources
+"""
+
+import json
+from pathlib import Path
+from datetime import datetime
+
+VAULT_DIR = Path("/home/ubuntu/RolloWiki")
+DATA_DIR = Path("/home/ubuntu/RolloForge/data")
+
+def load_bookmarks():
+    """Load all bookmarks"""
+    with open(DATA_DIR / "bookmarks_raw.json") as f:
+        return json.load(f)
+
+def load_analysis():
+    """Load analysis results"""
+    with open(DATA_DIR / "analysis_results.json") as f:
+        return {a["bookmark_id"]: a for a in json.load(f)}
+
+def synthesize_concept(concept_name, bookmarks, analyses):
+    """
+    Generate synthesis for a concept by combining all related sources
+    This creates a 'knowledge synthesis' like Karpathy described
+    """
+    # Find all bookmarks tagged with this concept
+    related = []
+    for b in bookmarks:
+        analysis = analyses.get(b["id"], {})
+        tags = analysis.get("tags", [])
+        if concept_name.replace('-', ' ') in tags or concept_name in tags:
+            related.append({
+                'title': b['title'],
+                'summary': analysis.get('summary', ''),
+                'insights': analysis.get('key_insights', []),
+                'priority': analysis.get('priority_score', 0)
+            })
+    
+    if len(related) < 2:
+        return None  # Need at least 2 sources to synthesize
+    
+    # Sort by priority
+    related.sort(key=lambda x: -x['priority'])
+    
+    # Generate synthesis text (would use LLM in full implementation)
+    synthesis = f"""## Synthesized Insights: {concept_name.replace('-', ' ').title()}
+
+Based on analysis of {len(related)} sources:
+
+### Key Themes
+"""
+    
+    # Extract common insights
+    all_insights = []
+    for r in related:
+        all_insights.extend(r['insights'][:3])  # Top 3 from each
+    
+    for i, insight in enumerate(all_insights[:5], 1):
+        synthesis += f"{i}. {insight}\n"
+    
+    synthesis += f"""
+### Top Sources
+"""
+    for r in related[:3]:
+        synthesis += f"- **{r['title']}** (priority: {r['priority']})\n"
+    
+    synthesis += f"""
+### Synthesis Generated
+*Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M')}*
+*Sources analyzed: {len(related)}*
+"""
+    
+    return synthesis
+
+def generate_syntheses():
+    """Generate synthesis pages for all concepts"""
+    print("🧠 Loading bookmark data...")
+    bookmarks = load_bookmarks()
+    analyses = load_analysis()
+    
+    concepts_dir = VAULT_DIR / "01-Concepts"
+    
+    print("📝 Generating syntheses...")
+    for concept_file in concepts_dir.glob("*.md"):
+        concept_name = concept_file.stem
+        
+        synthesis = synthesize_concept(concept_name, bookmarks, analyses)
+        if synthesis:
+            # Update concept file with synthesis
+            content = concept_file.read_text()
+            
+            # Replace or append synthesis section
+            if "## Synthesized Insights" in content:
+                # Replace existing
+                import re
+                content = re.sub(
+                    r'## Synthesized Insights.*',
+                    synthesis.strip(),
+                    content,
+                    flags=re.DOTALL
+                )
+            else:
+                content = content.rstrip() + "\n\n" + synthesis
+            
+            concept_file.write_text(content)
+            print(f"  ✓ {concept_name}: synthesized {len([b for b in bookmarks if concept_name.replace('-', ' ') in analyses.get(b['id'], {}).get('tags', [])])} sources")
+    
+    print("✅ Synthesis complete")
+
+def create_cross_cutting_syntheses():
+    """
+    Create synthesis pages that combine multiple concepts
+    (e.g., 'AI Agents for Trading' combining agents + trading)
+    """
+    synthesized_dir = VAULT_DIR / "03-Synthesized"
+    
+    # Define cross-cutting themes
+    themes = [
+        {
+            'name': 'AI-Agents-for-Trading',
+            'concepts': ['agents', 'automation'],
+            'query': 'trading OR polymarket OR prediction'
+        },
+        {
+            'name': 'OpenClaw-Multi-Agent-Setups',
+            'concepts': ['openclaw', 'multi-agent', 'agents'],
+            'query': 'openclaw AND multi'
+        },
+        {
+            'name': 'Autoresearch-Methodology',
+            'concepts': ['autoresearch', 'automation'],
+            'query': 'autoresearch OR karpathy'
+        }
+    ]
+    
+    print("\n🔗 Creating cross-cutting syntheses...")
+    for theme in themes:
+        filename = synthesized_dir / f"{theme['name']}.md"
+        
+        content = f"""---
+id: synthesis-{theme['name'].lower()}
+type: cross-cutting-synthesis
+concepts: {', '.join(theme['concepts'])}
+generated: {datetime.now().isoformat()}
+---
+
+# {theme['name'].replace('-', ' ')}
+
+## Overview
+Cross-cutting synthesis combining: {', '.join(f'[[{c}]]' for c in theme['concepts'])}
+
+## Key Insights
+*To be generated by LLM analysis of related sources*
+
+## Related Sources
+*Auto-populated from matching bookmarks*
+
+## Questions This Raises
+1. 
+2. 
+3. 
+
+---
+*Generated by RolloWiki Synthesizer*
+"""
+        filename.write_text(content)
+        print(f"  ✓ Created: {theme['name']}")
+
+if __name__ == "__main__":
+    generate_syntheses()
+    create_cross_cutting_syntheses()
