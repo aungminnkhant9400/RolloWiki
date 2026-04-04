@@ -2,7 +2,7 @@
 id: bookmark_2b941dc6f6b2
 url: https://x.com/feross/status/2038817532430405722?s=20
 source: x
-added: 2026-04-03T15:24:18.303251
+added: 2026-04-04T21:03:12.703570
 priority: 6.0
 bucket: unknown
 tags: 

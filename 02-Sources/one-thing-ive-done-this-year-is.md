@@ -2,10 +2,10 @@
 id: bookmark_eb066f6aa28e
 url: https://x.com/0xSero/status/2039813228352717201?s=20
 source: x
-added: 2026-04-03T15:24:18.327507
+added: 2026-04-04T21:03:12.719398
 priority: 6.5
 bucket: unknown
-tags: openclaw, automation, ai-tools, multi-agent
+tags: 
 ---
 
 # One thing I've done this year is:
@@ -23,10 +23,7 @@ This bookmark describes a comprehensive personal data aggregation project where 
 
 
 ## Concepts
-- [[openclaw]]
-- [[automation]]
-- [[ai-tools]]
-- [[multi-agent]]
+
 
 ## Personal Notes
 <!-- Add your thoughts here -->

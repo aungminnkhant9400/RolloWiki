@@ -2,10 +2,10 @@
 id: bookmark_504c22e37d4b
 url: https://x.com/omarsar0/status/2039844072748204246?s=20
 source: x
-added: 2026-04-03T15:24:18.327262
+added: 2026-04-04T21:03:12.719310
 priority: 5.5
 bucket: unknown
-tags: agents, autoresearch, automation, ai-tools
+tags: 
 ---
 
 # Building a personal knowledge base for my agents is increasingly where I spend...
@@ -23,10 +23,7 @@ This describes a system for automatically curating and indexing research papers 
 
 
 ## Concepts
-- [[agents]]
-- [[autoresearch]]
-- [[automation]]
-- [[ai-tools]]
+
 
 ## Personal Notes
 <!-- Add your thoughts here -->

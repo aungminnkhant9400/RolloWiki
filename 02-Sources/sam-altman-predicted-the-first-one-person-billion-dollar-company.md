@@ -2,10 +2,10 @@
 id: bookmark_d15eda66aae1
 url: https://x.com/startupideaspod/status/2039704206538363189?s=20
 source: x
-added: 2026-04-03T15:24:18.317732
+added: 2026-04-04T21:03:12.711803
 priority: 6.5
 bucket: unknown
-tags: ai-tools, automation, agents, multi-agent
+tags: 
 ---
 
 # Sam Altman predicted the first one-person billion-dollar company.
@@ -23,10 +23,7 @@ This bookmark describes a new business model where individuals can build billion
 
 
 ## Concepts
-- [[ai-tools]]
-- [[automation]]
-- [[agents]]
-- [[multi-agent]]
+
 
 ## Personal Notes
 <!-- Add your thoughts here -->

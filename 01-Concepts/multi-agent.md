@@ -17,11 +17,13 @@ Auto-generated concept page from 4 sources.
 - [[oh-and-in-the-natural-extrapolation-you-could-imagine-that-every-question-to-a]]
 
 
+
 ## Related Concepts (Auto-Linked)
 
-- [[automation]] (shared 4 sources, similarity: 0.8)
-- [[ai-tools]] (shared 3 sources, similarity: 0.6)
-- [[agents]] (shared 2 sources, similarity: 0.33)
+- [[automation]] (shared 6 sources, similarity: 0.6)
+- [[ai-tools]] (shared 5 sources, similarity: 0.56)
+- [[agents]] (shared 4 sources, similarity: 0.36)
+- [[autoresearch]] (shared 3 sources, similarity: 0.3)
 
 ## Synthesized Insights: Multi Agent
 

@@ -2,7 +2,7 @@
 id: bookmark_kirillk_web3_2034215658016104956
 url: https://x.com/kirillk_web3/status/2034215658016104956?s=46
 source: x
-added: 2026-04-03T15:24:18.324273
+added: 2026-04-04T21:03:12.716692
 priority: 9.5
 bucket: unknown
 tags: 

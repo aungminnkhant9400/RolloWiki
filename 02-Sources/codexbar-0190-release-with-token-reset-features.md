@@ -2,7 +2,7 @@
 id: bookmark_dfb2d77d033e
 url: https://x.com/steipete/status/2036245531522113910?s=20
 source: x
-added: 2026-04-03T15:24:18.319349
+added: 2026-04-04T21:03:12.712488
 priority: 5.5
 bucket: unknown
 tags: 

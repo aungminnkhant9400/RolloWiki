@@ -2,10 +2,10 @@
 id: bookmark_ea397d75071e
 url: https://x.com/karpathy/status/2039808711452246261?s=46
 source: x
-added: 2026-04-03T15:24:18.327644
+added: 2026-04-04T21:03:12.719485
 priority: 7.0
 bucket: unknown
-tags: multi-agent, autoresearch, llm, automation
+tags: 
 ---
 
 # Oh and in the natural extrapolation, you could imagine that every question to a...
@@ -23,10 +23,7 @@ This is a conceptual tweet from AI expert Andrej Karpathy describing a vision wh
 
 
 ## Concepts
-- [[multi-agent]]
-- [[autoresearch]]
-- [[llm]]
-- [[automation]]
+
 
 ## Personal Notes
 <!-- Add your thoughts here -->

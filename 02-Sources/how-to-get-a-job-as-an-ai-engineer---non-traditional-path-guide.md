@@ -2,7 +2,7 @@
 id: bookmark_ca7869d2f818
 url: https://x.com/deronin_/status/2036757912161231092?s=46
 source: x
-added: 2026-04-03T15:24:18.316564
+added: 2026-04-04T21:03:12.711175
 priority: 5.5
 bucket: unknown
 tags: 

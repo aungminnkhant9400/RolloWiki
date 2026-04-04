@@ -2,7 +2,7 @@
 id: bookmark_6e86c3315ef0
 url: https://x.com/elliotarledge/status/2038934884761444838?s=46
 source: x
-added: 2026-04-03T15:24:18.307296
+added: 2026-04-04T21:03:12.705784
 priority: 6.0
 bucket: unknown
 tags: 

@@ -17,11 +17,13 @@ Auto-generated concept page from 4 sources.
 - [[one-thing-ive-done-this-year-is]]
 
 
+
 ## Related Concepts (Auto-Linked)
 
-- [[automation]] (shared 4 sources, similarity: 0.8)
-- [[multi-agent]] (shared 3 sources, similarity: 0.6)
-- [[agents]] (shared 3 sources, similarity: 0.6)
+- [[automation]] (shared 6 sources, similarity: 0.6)
+- [[multi-agent]] (shared 5 sources, similarity: 0.56)
+- [[agents]] (shared 5 sources, similarity: 0.5)
+- [[autoresearch]] (shared 3 sources, similarity: 0.3)
 
 ## Synthesized Insights: Ai Tools
 

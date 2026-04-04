@@ -2,10 +2,10 @@
 id: bookmark_6e85b1763038
 url: https://x.com/therundownai/status/2039736232213668000?s=46
 source: x
-added: 2026-04-03T15:24:18.306979
+added: 2026-04-04T21:03:12.705701
 priority: 6.5
 bucket: unknown
-tags: agents, ai-tools, automation, multi-agent
+tags: 
 ---
 
 # Sam Altman predicted in 2024 that a one-person billion-dollar company "would...
@@ -23,10 +23,7 @@ This bookmark details Matthew Gallagher's achievement of building a $401M revenu
 
 
 ## Concepts
-- [[agents]]
-- [[ai-tools]]
-- [[automation]]
-- [[multi-agent]]
+
 
 ## Personal Notes
 <!-- Add your thoughts here -->

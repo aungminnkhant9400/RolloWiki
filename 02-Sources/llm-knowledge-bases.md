@@ -2,10 +2,10 @@
 id: bookmark_488e68ca4a2f
 url: https://x.com/karpathy/status/2039805659525644595?s=46
 source: x
-added: 2026-04-03T15:24:18.327129
+added: 2026-04-04T21:03:12.719206
 priority: 6.5
 bucket: unknown
-tags: openclaw, agents, autoresearch, llm
+tags: 
 ---
 
 # LLM Knowledge Bases
@@ -23,10 +23,7 @@ This describes a system where LLMs automatically compile and maintain personal k
 
 
 ## Concepts
-- [[openclaw]]
-- [[agents]]
-- [[autoresearch]]
-- [[llm]]
+
 
 ## Personal Notes
 <!-- Add your thoughts here -->
