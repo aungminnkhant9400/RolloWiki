@@ -2,7 +2,7 @@
 id: bookmark_forbes_ai_jobs
 url: https://x.com/forbes/status/2033272123473686566?s=46
 source: x
-added: 2026-04-05T00:07:17.275614
+added: 2026-04-05T03:02:52.350735
 priority: 4.0
 bucket: unknown
 tags: 

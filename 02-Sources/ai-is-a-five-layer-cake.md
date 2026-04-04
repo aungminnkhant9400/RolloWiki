@@ -2,7 +2,7 @@
 id: bookmark_nvidia_fivelayer
 url: https://x.com/nvidia/status/2031311890752704790?s=46
 source: x
-added: 2026-04-05T00:07:17.277014
+added: 2026-04-05T03:02:52.352769
 priority: 4.0
 bucket: unknown
 tags: 

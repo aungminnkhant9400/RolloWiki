@@ -2,7 +2,7 @@
 id: bookmark_0a058f8d7664
 url: https://x.com/lennysan/status/2039498785693540534?s=46
 source: x
-added: 2026-04-05T00:07:17.260536
+added: 2026-04-05T03:02:52.332348
 priority: 6.5
 bucket: unknown
 tags: 

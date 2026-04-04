@@ -1,20 +1,20 @@
 ---
-id: bookmark_cd1c8228e294
-url: https://x.com/paulg/status/2039594855503724720?s=46
+id: bookmark_4eb9179223c3
+url: https://x.com/karpathy/status/2040470801506541998?s=46
 source: x
-added: 2026-04-05T00:07:17.281659
-priority: 4.5
+added: 2026-04-05T03:02:52.362888
+priority: 7.0
 bucket: unknown
-tags: 
+tags: agents, ai-tools, automation, coding
 ---
 
 # Twitter/X post from status
 
 ## Source
-[Original Link](https://x.com/paulg/status/2039594855503724720?s=46)
+[Original Link](https://x.com/karpathy/status/2040470801506541998?s=46)
 
 ## Summary
-This is a Twitter/X post by Paul Graham discussing patterns in startup growth trajectories. The key takeaway is insights into how successful companies scale, which can inform AI trading strategies by understanding market dynamics. For someone building OpenClaw multi-agent systems, this provides valuable context for designing agents that can identify and capitalize on growth patterns in stocks or prediction markets. The perspective from a trusted startup thinker offers practical mental models for algorithmic decision-making.
+This is a Twitter/X post from Andrej Karpathy discussing practical challenges in AI agent development. The key takeaway focuses on the gap between theoretical agent capabilities and real-world implementation hurdles. For a user building OpenClaw multi-agent systems, this provides valuable insights from a trusted expert about the practical difficulties they'll encounter during hands-on development. Understanding these challenges early can help avoid common pitfalls and set realistic expectations for AI trading and automation projects.
 
 ## Why This Matters
 
@@ -23,7 +23,10 @@ This is a Twitter/X post by Paul Graham discussing patterns in startup growth tr
 
 
 ## Concepts
-
+- [[agents]]
+- [[ai-tools]]
+- [[automation]]
+- [[coding]]
 
 ## Personal Notes
 <!-- Add your thoughts here -->

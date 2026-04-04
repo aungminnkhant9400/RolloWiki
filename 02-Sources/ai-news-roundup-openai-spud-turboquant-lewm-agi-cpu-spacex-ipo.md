@@ -2,7 +2,7 @@
 id: bookmark_8d1f094fb012
 url: https://x.com/alexwg/status/2036811544214794725?s=20
 source: x
-added: 2026-04-05T00:07:17.267951
+added: 2026-04-05T03:02:52.340679
 priority: 6.5
 bucket: unknown
 tags: 

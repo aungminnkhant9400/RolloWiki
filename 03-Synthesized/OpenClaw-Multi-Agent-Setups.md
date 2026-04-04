@@ -2,7 +2,7 @@
 id: synthesis-openclaw-multi-agent-setups
 type: cross-cutting-synthesis
 concepts: openclaw, multi-agent, agents
-generated: 2026-04-05T00:07:17.372253
+generated: 2026-04-05T03:02:52.485428
 ---
 
 # OpenClaw Multi Agent Setups

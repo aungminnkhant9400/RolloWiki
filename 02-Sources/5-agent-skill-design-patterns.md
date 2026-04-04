@@ -2,7 +2,7 @@
 id: bookmark_googlecloud_adk_patterns
 url: https://x.com/googlecloudtech/status/2033953579824758855?s=46
 source: x
-added: 2026-04-05T00:07:17.275903
+added: 2026-04-05T03:02:52.351144
 priority: 5.5
 bucket: unknown
 tags: 

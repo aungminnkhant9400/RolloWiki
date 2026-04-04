@@ -2,7 +2,7 @@
 id: synthesis-ai-agents-for-trading
 type: cross-cutting-synthesis
 concepts: agents, automation
-generated: 2026-04-05T00:07:17.371463
+generated: 2026-04-05T03:02:52.484673
 ---
 
 # AI Agents for Trading

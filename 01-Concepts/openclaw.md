@@ -2,38 +2,42 @@
 id: concept-openclaw
 name: openclaw
 type: concept
-mentions: 2
+mentions: 3
 ---
 
 # Openclaw
 
 ## Overview
-Auto-generated concept page from 2 sources.
+Auto-generated concept page from 3 sources.
 
 ## Sources
-- [[llm-knowledge-bases]]
-- [[one-thing-ive-done-this-year-is]]
+- [[openclaw-best-practices-after-the-anthropic-split]]
+- [[github---openclawopenclaw-your-own-personal-ai-assistant-any-os-any-platform-the-lobster-way---github]]
+- [[if-your-claude-subscription-renewed-too-recently-and-you-dont-wanna-waste]]
 
 
 ## Related Concepts (Auto-Linked)
 
-- [[llm]] (shared 1 sources, similarity: 0.33)
+- [[automation]] (shared 3 sources, similarity: 0.6)
+- [[multi-agent]] (shared 2 sources, similarity: 0.67)
+- [[ai-tools]] (shared 2 sources, similarity: 0.33)
 
 ## Synthesized Insights: Openclaw
 
-Based on analysis of 2 sources:
+Based on analysis of 3 sources:
 
 ### Key Themes
-1. Use LLMs to automatically compile and maintain knowledge bases from diverse sources (articles, papers, datasets)
-2. Implement Q&A systems where LLM agents can research complex questions against compiled knowledge
-3. Create feedback loops where query outputs enhance the knowledge base for future use
-4. Aggregate diverse data sources (trading records, market data, code repos) into a unified RAG system for querying
-5. Use OpenClaw to create personalized agents that answer specific quantitative questions about your activities
+1. Multi-agent routing feature enables creating isolated agents for different trading strategies or market monitoring tasks
+2. Local-first Gateway architecture provides control plane for managing sessions, channels, and tools in one place
+3. Comprehensive channel support (WhatsApp, Telegram, Discord, etc.) allows receiving trading alerts where you already communicate
+4. Updated configuration approaches for OpenClaw post-Anthropic separation
+5. Practical tips for maintaining multi-agent workflows during platform transitions
 
 ### Top Sources
-- **LLM Knowledge Bases** (priority: 6.5)
-- **One thing I've done this year is:** (priority: 6.5)
+- **GitHub - openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 · GitHub** (priority: 7.5)
+- **OpenClaw Best Practices After the Anthropic Split** (priority: 6.5)
+- **If your Claude subscription renewed too recently and you don't wanna waste...** (priority: 6.5)
 
 ### Synthesis Generated
-*Last updated: 2026-04-03 15:24*
-*Sources analyzed: 2*
+*Last updated: 2026-04-05 03:02*
+*Sources analyzed: 3*

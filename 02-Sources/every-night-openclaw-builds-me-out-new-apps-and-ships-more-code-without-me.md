@@ -2,7 +2,7 @@
 id: bookmark_2ab921d56742
 url: https://x.com/AlexFinn/status/2037285512713822528?s=20
 source: x
-added: 2026-04-05T00:07:17.262811
+added: 2026-04-05T03:02:52.334735
 priority: 7.0
 bucket: unknown
 tags: 

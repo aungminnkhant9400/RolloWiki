@@ -2,7 +2,7 @@
 id: bookmark_bc1350e51260
 url: https://x.com/defi_monk/status/2033546203837726770?s=46
 source: x
-added: 2026-04-05T00:07:17.280355
+added: 2026-04-05T03:02:52.355796
 priority: 5.0
 bucket: unknown
 tags: 

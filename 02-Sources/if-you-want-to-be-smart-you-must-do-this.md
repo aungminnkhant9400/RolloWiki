@@ -2,7 +2,7 @@
 id: bookmark_e85ba1f1a4b9
 url: https://x.com/ryanholiday/status/2037560338242040094?s=46
 source: x
-added: 2026-04-05T00:07:17.274643
+added: 2026-04-05T03:02:52.349346
 priority: 3.5
 bucket: unknown
 tags: 
