@@ -2,7 +2,7 @@
 id: bookmark_4eb9179223c3
 url: https://x.com/karpathy/status/2040470801506541998?s=46
 source: x
-added: 2026-04-05T03:02:52.362888
+added: 2026-04-05T06:03:48.721120
 priority: 7.0
 bucket: unknown
 tags: agents, ai-tools, automation, coding

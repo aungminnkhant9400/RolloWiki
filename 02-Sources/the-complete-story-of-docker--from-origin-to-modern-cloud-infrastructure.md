@@ -2,7 +2,7 @@
 id: bookmark_7085087fbd3f
 url: https://x.com/nayanunfiltered/status/2037217543757455758?s=46
 source: x
-added: 2026-04-05T03:02:52.338947
+added: 2026-04-05T06:03:48.705626
 priority: 2.5
 bucket: unknown
 tags: 

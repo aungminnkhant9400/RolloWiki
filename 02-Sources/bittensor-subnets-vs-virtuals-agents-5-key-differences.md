@@ -2,7 +2,7 @@
 id: bookmark_71dfa1168ce6
 url: https://x.com/0xjeff/status/2036729034357494080?s=46
 source: x
-added: 2026-04-05T03:02:52.339232
+added: 2026-04-05T06:03:48.705739
 priority: 5.0
 bucket: unknown
 tags: 

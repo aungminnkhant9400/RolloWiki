@@ -2,7 +2,7 @@
 id: bookmark_a59675058601
 url: https://x.com/manthanguptaa/status/2036785420349174073?s=20
 source: x
-added: 2026-04-05T03:02:52.342106
+added: 2026-04-05T06:03:48.707701
 priority: 6.5
 bucket: unknown
 tags: 

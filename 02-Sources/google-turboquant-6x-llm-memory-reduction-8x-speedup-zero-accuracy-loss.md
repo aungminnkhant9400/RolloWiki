@@ -2,7 +2,7 @@
 id: bookmark_a5e987af4542
 url: https://x.com/GoogleResearch/status/2036533564158910740?s=20
 source: x
-added: 2026-04-05T03:02:52.342373
+added: 2026-04-05T06:03:48.707805
 priority: 6.5
 bucket: unknown
 tags: 

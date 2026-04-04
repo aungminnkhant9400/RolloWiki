@@ -2,7 +2,7 @@
 id: bookmark_citrini_crisis
 url: https://x.com/citrini7/status/2025668400396349476?s=46
 source: x
-added: 2026-04-05T03:02:52.347392
+added: 2026-04-05T06:03:48.712089
 priority: 3.0
 bucket: unknown
 tags: 

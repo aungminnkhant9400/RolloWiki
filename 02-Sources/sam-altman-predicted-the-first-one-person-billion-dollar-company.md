@@ -2,7 +2,7 @@
 id: bookmark_d15eda66aae1
 url: https://x.com/startupideaspod/status/2039704206538363189?s=20
 source: x
-added: 2026-04-05T03:02:52.347529
+added: 2026-04-05T06:03:48.712178
 priority: 6.5
 bucket: unknown
 tags: 

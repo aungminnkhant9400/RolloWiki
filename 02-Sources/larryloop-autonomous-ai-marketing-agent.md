@@ -2,7 +2,7 @@
 id: bookmark_5f137c14
 url: https://x.com/oliverhenry/status/2035458608872276140
 source: x
-added: 2026-04-05T03:02:52.337084
+added: 2026-04-05T06:03:48.703582
 priority: 6.0
 bucket: unknown
 tags: 
