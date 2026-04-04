@@ -2,7 +2,7 @@
 id: bookmark_alexfinn_openclaw_speed
 url: https://x.com/alexfinn/status/2034457411759776130?s=46
 source: x
-added: 2026-04-04T21:03:12.709442
+added: 2026-04-05T00:07:17.271013
 priority: 5.5
 bucket: unknown
 tags: 

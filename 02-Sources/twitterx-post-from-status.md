@@ -2,7 +2,7 @@
 id: bookmark_cd1c8228e294
 url: https://x.com/paulg/status/2039594855503724720?s=46
 source: x
-added: 2026-04-04T21:03:12.722073
+added: 2026-04-05T00:07:17.281659
 priority: 4.5
 bucket: unknown
 tags: 

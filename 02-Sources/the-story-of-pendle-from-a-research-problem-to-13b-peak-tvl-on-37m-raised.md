@@ -2,7 +2,7 @@
 id: bookmark_8dc1b3ab5b9e
 url: https://x.com/stacy_muur/status/2037138679945150549?s=46
 source: x
-added: 2026-04-04T21:03:12.707982
+added: 2026-04-05T00:07:17.268070
 priority: 4.5
 bucket: unknown
 tags: 

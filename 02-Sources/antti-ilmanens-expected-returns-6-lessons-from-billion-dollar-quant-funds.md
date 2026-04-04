@@ -2,7 +2,7 @@
 id: bookmark_c7b65dd97337
 url: https://x.com/GoshawkTrades/status/2036495569334509774?s=20
 source: x
-added: 2026-04-04T21:03:12.710903
+added: 2026-04-05T00:07:17.272454
 priority: 5.5
 bucket: unknown
 tags: 

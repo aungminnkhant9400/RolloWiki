@@ -2,45 +2,36 @@
 id: concept-ai-tools
 name: ai-tools
 type: concept
-mentions: 4
+mentions: 2
 ---
 
 # Ai-Tools
 
 ## Overview
-Auto-generated concept page from 4 sources.
+Auto-generated concept page from 2 sources.
 
 ## Sources
-- [[sam-altman-predicted-in-2024-that-a-one-person-billion-dollar-company-would]]
-- [[sam-altman-predicted-the-first-one-person-billion-dollar-company]]
-- [[building-a-personal-knowledge-base-for-my-agents-is-increasingly-where-i-spend]]
-- [[one-thing-ive-done-this-year-is]]
+- [[heres-what-on-the-way]]
+- [[openclaw-best-practices-after-the-anthropic-split]]
 
-
-
-## Related Concepts (Auto-Linked)
-
-- [[automation]] (shared 6 sources, similarity: 0.6)
-- [[multi-agent]] (shared 5 sources, similarity: 0.56)
-- [[agents]] (shared 5 sources, similarity: 0.5)
-- [[autoresearch]] (shared 3 sources, similarity: 0.3)
+## Related Concepts
+<!-- Auto-linked -->
 
 ## Synthesized Insights: Ai Tools
 
-Based on analysis of 4 sources:
+Based on analysis of 2 sources:
 
 ### Key Themes
-1. Custom AI agents can integrate diverse AI tools (ChatGPT, Claude, Grok, Midjourney, Runway, ElevenLabs) into cohesive business systems
-2. Minimal initial investment ($20K) with AI agents can scale to billion-dollar revenue through automation
-3. Multi-agent workflows can handle coding, content creation, customer service, and marketing simultaneously
-4. Start with audience building on social platforms before product development
-5. Use AI agents to automate fulfillment and operations at scale
+1. Updated configuration approaches for OpenClaw post-Anthropic separation
+2. Practical tips for maintaining multi-agent workflows during platform transitions
+3. Operational adjustments needed for current OpenClaw implementations
+4. Custom calibration datasets can target specific capabilities like coding and agentic behavior while removing unwanted refusal weights
+5. Pruning large models (e.g., Qwen3.5-397B to 200B) can reduce VRAM requirements from 196GB to more manageable levels
 
 ### Top Sources
-- **Sam Altman predicted in 2024 that a one-person billion-dollar company "would...** (priority: 6.5)
-- **Sam Altman predicted the first one-person billion-dollar company.** (priority: 6.5)
-- **One thing I've done this year is:** (priority: 6.5)
+- **OpenClaw Best Practices After the Anthropic Split** (priority: 6.5)
+- **Here's what on the way** (priority: 5.5)
 
 ### Synthesis Generated
-*Last updated: 2026-04-03 15:24*
-*Sources analyzed: 4*
+*Last updated: 2026-04-05 00:07*
+*Sources analyzed: 2*

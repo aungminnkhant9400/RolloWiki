@@ -2,7 +2,7 @@
 id: bookmark_roundtable_github
 url: https://x.com/roundtablespace/status/2033577783553585517?s=46
 source: x
-added: 2026-04-04T21:03:12.717872
+added: 2026-04-05T00:07:17.277384
 priority: 4.0
 bucket: unknown
 tags: 

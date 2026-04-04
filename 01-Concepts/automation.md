@@ -19,11 +19,12 @@ Auto-generated concept page from 5 sources.
 
 
 
+
 ## Related Concepts (Auto-Linked)
 
 - [[multi-agent]] (shared 6 sources, similarity: 0.6)
-- [[ai-tools]] (shared 6 sources, similarity: 0.6)
-- [[agents]] (shared 6 sources, similarity: 0.55)
+- [[agents]] (shared 5 sources, similarity: 0.5)
+- [[autoresearch]] (shared 4 sources, similarity: 0.44)
 
 ## Synthesized Insights: Automation
 

@@ -2,7 +2,7 @@
 id: bookmark_perplexity_2039029140758864314
 url: https://x.com/perplexity_ai/status/2039029140758864314?s=20
 source: x
-added: 2026-04-04T21:03:12.717706
+added: 2026-04-05T00:07:17.277189
 priority: 1.6
 bucket: unknown
 tags: 

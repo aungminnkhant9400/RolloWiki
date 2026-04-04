@@ -2,7 +2,7 @@
 id: bookmark_e32f6baa21c4
 url: https://x.com/BentoBoiNFT/status/2036827922565042415?s=20
 source: x
-added: 2026-04-04T21:03:12.713068
+added: 2026-04-05T00:07:17.274468
 priority: 7.0
 bucket: unknown
 tags: 
