@@ -2,7 +2,7 @@
 id: bookmark_57915449c8d3
 url: https://steipete.me/posts/just-talk-to-it
 source: article
-added: 2026-04-06T00:14:49.240470
+added: 2026-04-06T03:23:07.881405
 priority: 6.5
 bucket: unknown
 tags: 

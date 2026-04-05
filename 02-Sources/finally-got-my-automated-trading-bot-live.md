@@ -2,7 +2,7 @@
 id: bookmark_c71aa666b6a2
 url: https://x.com/Eddie_Fibonacci/status/2036769579662250453?s=20
 source: x
-added: 2026-04-06T00:14:49.249503
+added: 2026-04-06T03:23:07.888270
 priority: 6.0
 bucket: unknown
 tags: 

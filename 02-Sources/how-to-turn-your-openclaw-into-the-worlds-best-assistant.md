@@ -2,7 +2,7 @@
 id: bookmark_2f49f0eec83e
 url: https://x.com/ryancarson/status/2039786704731541903?s=46
 source: x
-added: 2026-04-06T00:14:49.261710
+added: 2026-04-06T03:23:07.896956
 priority: 6.5
 bucket: unknown
 tags: 

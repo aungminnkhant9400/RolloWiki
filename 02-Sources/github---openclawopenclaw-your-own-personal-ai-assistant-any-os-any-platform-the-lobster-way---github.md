@@ -2,7 +2,7 @@
 id: bookmark_93a292c19c51
 url: https://github.com/openclaw/openclaw
 source: article
-added: 2026-04-06T00:14:49.267656
+added: 2026-04-06T03:23:07.900239
 priority: 7.5
 bucket: unknown
 tags: openclaw, multi-agent, automation, ai-tools

@@ -2,7 +2,7 @@
 id: bookmark_ceacad859af6
 url: https://x.com/hawks0x/status/2038351017805242427?s=46
 source: x
-added: 2026-04-06T00:14:49.250598
+added: 2026-04-06T03:23:07.889206
 priority: 2.5
 bucket: unknown
 tags: 
