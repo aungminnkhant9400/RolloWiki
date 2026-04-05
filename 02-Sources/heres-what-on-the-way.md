@@ -2,7 +2,7 @@
 id: bookmark_0901fa54ccfd
 url: https://x.com/0xSero/status/2040420555787063504?s=20
 source: x
-added: 2026-04-05T15:03:45.186746
+added: 2026-04-05T18:35:28.130244
 priority: 5.5
 bucket: unknown
 tags: llm, agents, coding, ai-tools

@@ -2,7 +2,7 @@
 id: bookmark_aakashgupta_2034851259442749
 url: https://x.com/aakashgupta/status/2034851259442749909?s=20
 source: x
-added: 2026-04-05T15:03:45.167484
+added: 2026-04-05T18:35:28.101767
 priority: 6.5
 bucket: unknown
 tags: 

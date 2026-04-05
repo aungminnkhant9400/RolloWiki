@@ -2,7 +2,7 @@
 id: bookmark_nickspisak_2035311693312536
 url: https://x.com/nickspisak_/status/2035311693312536736?s=46
 source: x
-added: 2026-04-05T15:03:45.179723
+added: 2026-04-05T18:35:28.123189
 priority: 7.0
 bucket: unknown
 tags: 

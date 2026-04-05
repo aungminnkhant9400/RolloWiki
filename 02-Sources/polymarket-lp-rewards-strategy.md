@@ -2,7 +2,7 @@
 id: bookmark_austiinxbt_polymarket
 url: https://x.com/austiinxbt/status/2032871270434447433?s=46
 source: x
-added: 2026-04-05T15:03:45.169675
+added: 2026-04-05T18:35:28.103408
 priority: 6.5
 bucket: unknown
 tags: 

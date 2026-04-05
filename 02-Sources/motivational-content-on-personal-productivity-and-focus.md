@@ -2,7 +2,7 @@
 id: bookmark_TimDenning_2036022953385873
 url: https://x.com/Tim_Denning/status/2036022953385873708?s=20
 source: x
-added: 2026-04-05T15:03:45.162911
+added: 2026-04-05T18:35:28.101049
 priority: 1.5
 bucket: unknown
 tags: 
