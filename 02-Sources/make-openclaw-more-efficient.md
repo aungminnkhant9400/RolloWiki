@@ -2,7 +2,7 @@
 id: bookmark_61136115
 url: https://x.com/roundtablespace/status/2034532353809224110
 source: x
-added: 2026-04-05T18:35:28.094254
+added: 2026-04-05T21:03:13.766295
 priority: 6.0
 bucket: unknown
 tags: 

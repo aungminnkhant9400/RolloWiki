@@ -2,7 +2,7 @@
 id: bookmark_85fabf706135
 url: https://x.com/quantscience_/status/2038591142854291522?s=20
 source: x
-added: 2026-04-05T18:35:28.098884
+added: 2026-04-05T21:03:13.768412
 priority: 6.5
 bucket: unknown
 tags: 

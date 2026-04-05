@@ -2,7 +2,7 @@
 id: bookmark_03dbbda29970
 url: https://x.com/karpathy/status/2040572272944324650?s=46
 source: x
-added: 2026-04-05T18:35:28.131349
+added: 2026-04-05T21:03:13.788179
 priority: 6.5
 bucket: unknown
 tags: openclaw, agents, ai-tools, automation

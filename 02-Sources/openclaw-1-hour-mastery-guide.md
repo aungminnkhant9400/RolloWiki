@@ -2,7 +2,7 @@
 id: bookmark_c1eed805
 url: https://x.com/gregisenberg/status/2034778615464735000
 source: x
-added: 2026-04-05T18:35:28.106795
+added: 2026-04-05T21:03:13.771747
 priority: 7.0
 bucket: unknown
 tags: 

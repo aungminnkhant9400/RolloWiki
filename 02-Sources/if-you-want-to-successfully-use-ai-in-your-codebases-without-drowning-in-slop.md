@@ -2,7 +2,7 @@
 id: bookmark_d4917f1b42f3
 url: https://x.com/0xsero/status/2038936879525953554?s=46
 source: x
-added: 2026-04-05T18:35:28.111259
+added: 2026-04-05T21:03:13.773834
 priority: 6.5
 bucket: unknown
 tags: 

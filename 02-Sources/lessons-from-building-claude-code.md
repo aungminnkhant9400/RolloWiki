@@ -2,7 +2,7 @@
 id: bookmark_trq212_claude_skills
 url: https://x.com/trq212/status/2033949937936085378?s=46
 source: x
-added: 2026-04-05T18:35:28.127238
+added: 2026-04-05T21:03:13.779430
 priority: 6.5
 bucket: unknown
 tags: 

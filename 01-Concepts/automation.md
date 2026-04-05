@@ -28,6 +28,22 @@ Auto-generated concept page from 8 sources.
 - [[agents]] (shared 4 sources, similarity: 0.44)
 - [[multi-agent]] (shared 3 sources, similarity: 0.38)
 
-## Synthesized Insights
-<!-- LLM-generated synthesis across sources -->
+## Synthesized Insights: Automation
 
+Based on analysis of 8 sources:
+
+### Key Themes
+1. Multi-agent routing feature enables creating isolated agents for different trading strategies or market monitoring tasks
+2. Local-first Gateway architecture provides control plane for managing sessions, channels, and tools in one place
+3. Comprehensive channel support (WhatsApp, Telegram, Discord, etc.) allows receiving trading alerts where you already communicate
+4. Identifies specific implementation gaps between agent theory and practical deployment
+5. Highlights common failure modes in real-world agent workflows
+
+### Top Sources
+- **GitHub - openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 · GitHub** (priority: 7.5)
+- **Twitter/X post from status** (priority: 7.0)
+- **OpenClaw Best Practices After the Anthropic Split** (priority: 6.5)
+
+### Synthesis Generated
+*Last updated: 2026-04-05 21:03*
+*Sources analyzed: 8*

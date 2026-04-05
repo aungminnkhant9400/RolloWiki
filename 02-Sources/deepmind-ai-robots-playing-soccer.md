@@ -2,7 +2,7 @@
 id: bookmark_yacinemtb_2035779012908175
 url: https://x.com/yacinemtb/status/2035779012908175740?s=46
 source: x
-added: 2026-04-05T18:35:28.127352
+added: 2026-04-05T21:03:13.779588
 priority: 5.5
 bucket: unknown
 tags: 

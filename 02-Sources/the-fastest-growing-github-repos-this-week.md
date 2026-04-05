@@ -2,7 +2,7 @@
 id: bookmark_7bb5a0eb92df
 url: https://x.com/sharbel/status/2037505418272841833?s=20
 source: x
-added: 2026-04-05T18:35:28.098089
+added: 2026-04-05T21:03:13.768006
 priority: 6.5
 bucket: unknown
 tags: 

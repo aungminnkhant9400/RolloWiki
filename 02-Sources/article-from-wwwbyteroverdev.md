@@ -2,7 +2,7 @@
 id: bookmark_6da660587842
 url: https://www.byterover.dev/blog/native-structured-long-term-memory-plugin-openclaw?utm_source=X&utm_medium=social&utm_campaign=launch_plugin_openclaw_v2
 source: article
-added: 2026-04-05T18:35:28.131571
+added: 2026-04-05T21:03:13.789643
 priority: 6.5
 bucket: unknown
 tags: openclaw, multi-agent, automation, ai-tools

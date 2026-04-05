@@ -2,7 +2,7 @@
 id: bookmark_f480cfb7c06f
 url: https://github.com/shouc/agentflow
 source: article
-added: 2026-04-05T18:35:28.117479
+added: 2026-04-05T21:03:13.776011
 priority: 6.5
 bucket: unknown
 tags: 
