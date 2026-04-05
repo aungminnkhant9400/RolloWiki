@@ -2,7 +2,7 @@
 id: bookmark_heynavtoor_ai_engineer
 url: https://x.com/heynavtoor/status/2033967680903069768?s=46
 source: x
-added: 2026-04-05T06:03:48.714676
+added: 2026-04-05T09:03:37.656668
 priority: 4.5
 bucket: unknown
 tags: 

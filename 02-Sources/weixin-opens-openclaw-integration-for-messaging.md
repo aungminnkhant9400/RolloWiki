@@ -2,7 +2,7 @@
 id: bookmark_WeixinWeChat_2035537088314290
 url: https://x.com/Weixin_WeChat/status/2035537088314290236?s=20
 source: x
-added: 2026-04-05T06:03:48.707486
+added: 2026-04-05T09:03:37.648928
 priority: 8.0
 bucket: unknown
 tags: 
