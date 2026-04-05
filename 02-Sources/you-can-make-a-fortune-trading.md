@@ -2,7 +2,7 @@
 id: bookmark_theflowhorse_trading
 url: https://x.com/theflowhorse/status/2024876407059263690?s=46
 source: x
-added: 2026-04-06T03:23:07.895337
+added: 2026-04-06T06:03:25.378451
 priority: 5.5
 bucket: unknown
 tags: 

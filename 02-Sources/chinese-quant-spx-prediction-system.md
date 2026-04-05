@@ -2,7 +2,7 @@
 id: bookmark_antpalkin_spx
 url: https://x.com/antpalkin/status/2032192500991963604?s=46
 source: x
-added: 2026-04-06T03:23:07.886758
+added: 2026-04-06T06:03:25.368123
 priority: 5.5
 bucket: unknown
 tags: 

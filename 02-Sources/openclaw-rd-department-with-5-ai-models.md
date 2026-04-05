@@ -2,7 +2,7 @@
 id: bookmark_f0776159
 url: https://x.com/alexfinn/status/2035459248147374213
 source: x
-added: 2026-04-06T03:23:07.891123
+added: 2026-04-06T06:03:25.374861
 priority: 7.5
 bucket: unknown
 tags: 

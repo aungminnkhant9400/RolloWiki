@@ -2,7 +2,7 @@
 id: bookmark_ernestosoftware_2033917717762191659
 url: https://x.com/ernestosoftware/status/2033917717762191659?s=46
 source: x
-added: 2026-04-06T03:23:07.890920
+added: 2026-04-06T06:03:25.374534
 priority: 8.0
 bucket: unknown
 tags: 

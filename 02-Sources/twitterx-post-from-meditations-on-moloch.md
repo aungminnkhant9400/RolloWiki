@@ -2,7 +2,7 @@
 id: bookmark_4b6461920ec2
 url: https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
 source: x
-added: 2026-04-06T03:23:07.896380
+added: 2026-04-06T06:03:25.380197
 priority: 4.5
 bucket: unknown
 tags: 

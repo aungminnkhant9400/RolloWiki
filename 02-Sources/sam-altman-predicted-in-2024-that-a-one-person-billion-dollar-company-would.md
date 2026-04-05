@@ -2,7 +2,7 @@
 id: bookmark_6e85b1763038
 url: https://x.com/therundownai/status/2039736232213668000?s=46
 source: x
-added: 2026-04-06T03:23:07.882341
+added: 2026-04-06T06:03:25.361643
 priority: 6.5
 bucket: unknown
 tags: 

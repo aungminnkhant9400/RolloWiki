@@ -2,7 +2,7 @@
 id: bookmark_43287c10f70b
 url: https://github.com/CBaquero/BTCautoresearch
 source: article
-added: 2026-04-06T03:23:07.880391
+added: 2026-04-06T06:03:25.354381
 priority: 7.0
 bucket: unknown
 tags: 

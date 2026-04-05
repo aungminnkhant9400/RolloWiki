@@ -2,7 +2,7 @@
 id: bookmark_gkisokay_self_improving
 url: https://x.com/gkisokay/status/2034278980711518598?s=46
 source: x
-added: 2026-04-06T03:23:07.892289
+added: 2026-04-06T06:03:25.375818
 priority: 7.0
 bucket: unknown
 tags: 

@@ -2,7 +2,7 @@
 id: bookmark_0366cc7bf610
 url: https://x.com/thedankoe/status/2036824811712942576?s=46
 source: x
-added: 2026-04-06T03:23:07.877228
+added: 2026-04-06T06:03:25.349966
 priority: 3.0
 bucket: unknown
 tags: 
