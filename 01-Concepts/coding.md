@@ -18,10 +18,9 @@ Auto-generated concept page from 3 sources.
 
 ## Related Concepts (Auto-Linked)
 
-- [[ai-tools]] (shared 3 sources, similarity: 0.6)
-- [[llm]] (shared 2 sources, similarity: 0.67)
-- [[automation]] (shared 2 sources, similarity: 0.33)
-- [[agents]] (shared 2 sources, similarity: 0.5)
+- [[ai-tools]] (shared 3 sources, similarity: 0.5)
+- [[llm]] (shared 2 sources, similarity: 0.5)
+- [[agents]] (shared 2 sources, similarity: 0.33)
 
 ## Synthesized Insights: Coding
 
@@ -40,5 +39,5 @@ Based on analysis of 3 sources:
 - **You need to write more.** (priority: 4.0)
 
 ### Synthesis Generated
-*Last updated: 2026-04-05 09:03*
+*Last updated: 2026-04-05 15:03*
 *Sources analyzed: 3*

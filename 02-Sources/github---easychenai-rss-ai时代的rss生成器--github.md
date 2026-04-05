@@ -2,7 +2,7 @@
 id: bookmark_3cab23116c3d
 url: https://github.com/easychen/ai-rss
 source: article
-added: 2026-04-05T09:03:37.644392
+added: 2026-04-05T15:03:45.152772
 priority: 4.5
 bucket: unknown
 tags: 

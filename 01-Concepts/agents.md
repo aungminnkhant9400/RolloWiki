@@ -2,29 +2,33 @@
 id: concept-agents
 name: agents
 type: concept
-mentions: 3
+mentions: 5
 ---
 
 # Agents
 
 ## Overview
-Auto-generated concept page from 3 sources.
+Auto-generated concept page from 5 sources.
 
 ## Sources
 - [[heres-what-on-the-way]]
 - [[twitterx-post-from-status]]
 - [[if-your-claude-subscription-renewed-too-recently-and-you-dont-wanna-waste]]
+- [[farzapedia-personal-wikipedia-of-farza-good-example-following-my-wiki-llm]]
+- [[this-is-farzapedia]]
 
 
 ## Related Concepts (Auto-Linked)
 
-- [[ai-tools]] (shared 2 sources, similarity: 0.33)
-- [[coding]] (shared 2 sources, similarity: 0.5)
-- [[automation]] (shared 2 sources, similarity: 0.33)
+- [[automation]] (shared 4 sources, similarity: 0.5)
+- [[ai-tools]] (shared 3 sources, similarity: 0.38)
+- [[openclaw]] (shared 3 sources, similarity: 0.43)
+- [[coding]] (shared 2 sources, similarity: 0.33)
+- [[llm]] (shared 2 sources, similarity: 0.33)
 
 ## Synthesized Insights: Agents
 
-Based on analysis of 3 sources:
+Based on analysis of 5 sources:
 
 ### Key Themes
 1. Identifies specific implementation gaps between agent theory and practical deployment
@@ -36,8 +40,8 @@ Based on analysis of 3 sources:
 ### Top Sources
 - **Twitter/X post from status** (priority: 7.0)
 - **If your Claude subscription renewed too recently and you don't wanna waste...** (priority: 6.5)
-- **Here's what on the way** (priority: 5.5)
+- **Farzapedia, personal wikipedia of Farza, good example following my Wiki LLM...** (priority: 6.5)
 
 ### Synthesis Generated
-*Last updated: 2026-04-05 09:03*
-*Sources analyzed: 3*
+*Last updated: 2026-04-05 15:03*
+*Sources analyzed: 5*

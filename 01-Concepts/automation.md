@@ -2,13 +2,13 @@
 id: concept-automation
 name: automation
 type: concept
-mentions: 5
+mentions: 7
 ---
 
 # Automation
 
 ## Overview
-Auto-generated concept page from 5 sources.
+Auto-generated concept page from 7 sources.
 
 ## Sources
 - [[openclaw-best-practices-after-the-anthropic-split]]
@@ -16,19 +16,19 @@ Auto-generated concept page from 5 sources.
 - [[you-need-to-write-more]]
 - [[twitterx-post-from-status]]
 - [[if-your-claude-subscription-renewed-too-recently-and-you-dont-wanna-waste]]
+- [[farzapedia-personal-wikipedia-of-farza-good-example-following-my-wiki-llm]]
+- [[this-is-farzapedia]]
 
 
 ## Related Concepts (Auto-Linked)
 
-- [[ai-tools]] (shared 4 sources, similarity: 0.67)
-- [[openclaw]] (shared 3 sources, similarity: 0.6)
-- [[multi-agent]] (shared 2 sources, similarity: 0.4)
-- [[coding]] (shared 2 sources, similarity: 0.33)
-- [[agents]] (shared 2 sources, similarity: 0.33)
+- [[ai-tools]] (shared 5 sources, similarity: 0.62)
+- [[openclaw]] (shared 5 sources, similarity: 0.71)
+- [[agents]] (shared 4 sources, similarity: 0.5)
 
 ## Synthesized Insights: Automation
 
-Based on analysis of 5 sources:
+Based on analysis of 7 sources:
 
 ### Key Themes
 1. Multi-agent routing feature enables creating isolated agents for different trading strategies or market monitoring tasks
@@ -43,5 +43,5 @@ Based on analysis of 5 sources:
 - **OpenClaw Best Practices After the Anthropic Split** (priority: 6.5)
 
 ### Synthesis Generated
-*Last updated: 2026-04-05 09:03*
-*Sources analyzed: 5*
+*Last updated: 2026-04-05 15:03*
+*Sources analyzed: 7*

@@ -2,7 +2,7 @@
 id: bookmark_atenov_obsidian
 url: https://x.com/Atenov_D/status/2033520502505898368?s=20
 source: x
-added: 2026-04-05T09:03:37.651515
+added: 2026-04-05T15:03:45.169410
 priority: 5.0
 bucket: unknown
 tags: 

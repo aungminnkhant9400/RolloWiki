@@ -17,9 +17,8 @@ Auto-generated concept page from 2 sources.
 
 ## Related Concepts (Auto-Linked)
 
-- [[ai-tools]] (shared 2 sources, similarity: 0.4)
-- [[automation]] (shared 2 sources, similarity: 0.4)
-- [[openclaw]] (shared 2 sources, similarity: 0.67)
+- [[ai-tools]] (shared 2 sources, similarity: 0.33)
+- [[openclaw]] (shared 2 sources, similarity: 0.4)
 
 ## Synthesized Insights: Multi Agent
 
@@ -37,5 +36,5 @@ Based on analysis of 2 sources:
 - **OpenClaw Best Practices After the Anthropic Split** (priority: 6.5)
 
 ### Synthesis Generated
-*Last updated: 2026-04-05 09:03*
+*Last updated: 2026-04-05 15:03*
 *Sources analyzed: 2*

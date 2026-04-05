@@ -2,7 +2,7 @@
 id: bookmark_1fb744e146ab
 url: https://x.com/citrini/status/2037323560574656834?s=46
 source: x
-added: 2026-04-05T09:03:37.643263
+added: 2026-04-05T15:03:45.151398
 priority: 6.5
 bucket: unknown
 tags: 

@@ -2,29 +2,32 @@
 id: concept-openclaw
 name: openclaw
 type: concept
-mentions: 3
+mentions: 5
 ---
 
 # Openclaw
 
 ## Overview
-Auto-generated concept page from 3 sources.
+Auto-generated concept page from 5 sources.
 
 ## Sources
 - [[openclaw-best-practices-after-the-anthropic-split]]
 - [[github---openclawopenclaw-your-own-personal-ai-assistant-any-os-any-platform-the-lobster-way---github]]
 - [[if-your-claude-subscription-renewed-too-recently-and-you-dont-wanna-waste]]
+- [[farzapedia-personal-wikipedia-of-farza-good-example-following-my-wiki-llm]]
+- [[this-is-farzapedia]]
 
 
 ## Related Concepts (Auto-Linked)
 
-- [[automation]] (shared 3 sources, similarity: 0.6)
-- [[multi-agent]] (shared 2 sources, similarity: 0.67)
-- [[ai-tools]] (shared 2 sources, similarity: 0.33)
+- [[automation]] (shared 5 sources, similarity: 0.71)
+- [[ai-tools]] (shared 3 sources, similarity: 0.38)
+- [[agents]] (shared 3 sources, similarity: 0.43)
+- [[multi-agent]] (shared 2 sources, similarity: 0.4)
 
 ## Synthesized Insights: Openclaw
 
-Based on analysis of 3 sources:
+Based on analysis of 5 sources:
 
 ### Key Themes
 1. Multi-agent routing feature enables creating isolated agents for different trading strategies or market monitoring tasks
@@ -39,5 +42,5 @@ Based on analysis of 3 sources:
 - **If your Claude subscription renewed too recently and you don't wanna waste...** (priority: 6.5)
 
 ### Synthesis Generated
-*Last updated: 2026-04-05 09:03*
-*Sources analyzed: 3*
+*Last updated: 2026-04-05 15:03*
+*Sources analyzed: 5*

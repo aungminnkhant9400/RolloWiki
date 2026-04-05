@@ -2,7 +2,7 @@
 id: bookmark_karpathy_2036487306585268612
 url: https://x.com/karpathy/status/2036487306585268612?s=46
 source: x
-added: 2026-04-05T09:03:37.657188
+added: 2026-04-05T15:03:45.178680
 priority: 8.5
 bucket: unknown
 tags: 
