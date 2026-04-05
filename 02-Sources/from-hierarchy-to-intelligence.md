@@ -2,7 +2,7 @@
 id: bookmark_fb6a1c35cd3b
 url: https://x.com/jack/status/2039003879841362278?s=46
 source: x
-added: 2026-04-05T21:03:13.783352
+added: 2026-04-06T00:14:49.265711
 priority: 4.5
 bucket: unknown
 tags: 

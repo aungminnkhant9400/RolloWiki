@@ -2,7 +2,7 @@
 id: bookmark_d2a55514e663
 url: https://x.com/systematicls/status/2028814227004395561?s=46
 source: x
-added: 2026-04-05T21:03:13.773679
+added: 2026-04-06T00:14:49.251611
 priority: 6.5
 bucket: unknown
 tags: 

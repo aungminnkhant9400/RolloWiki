@@ -2,7 +2,7 @@
 id: bookmark_6b812dc99a86
 url: https://x.com/Obesepotato_hl/status/2036830305731121660?s=20
 source: x
-added: 2026-04-05T21:03:13.766598
+added: 2026-04-06T00:14:49.241606
 priority: 3.0
 bucket: unknown
 tags: 

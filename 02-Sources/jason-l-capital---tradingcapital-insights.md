@@ -2,7 +2,7 @@
 id: bookmark_jasonl_capital_2039130723093827747
 url: https://x.com/jasonl_capital/status/2039130723093827747?s=46
 source: x
-added: 2026-04-05T21:03:13.777352
+added: 2026-04-06T00:14:49.256712
 priority: 6.5
 bucket: unknown
 tags: 

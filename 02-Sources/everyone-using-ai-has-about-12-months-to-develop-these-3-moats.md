@@ -2,7 +2,7 @@
 id: bookmark_5b61fd6775a6
 url: https://x.com/shannholmberg/status/2031049690175652235?s=46
 source: x
-added: 2026-04-05T21:03:13.780813
+added: 2026-04-06T00:14:49.261539
 priority: 6.5
 bucket: unknown
 tags: 

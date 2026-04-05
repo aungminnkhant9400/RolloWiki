@@ -2,7 +2,7 @@
 id: bookmark_zodchiii_poker
 url: https://x.com/zodchiii/status/2032026880623231229?s=46
 source: x
-added: 2026-04-05T21:03:13.779786
+added: 2026-04-06T00:14:49.260025
 priority: 5.0
 bucket: unknown
 tags: 

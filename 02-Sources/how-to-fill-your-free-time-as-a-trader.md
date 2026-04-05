@@ -2,7 +2,7 @@
 id: bookmark_3f71e4ad5fad
 url: https://x.com/investingluc/status/2037194426687119507?s=46
 source: x
-added: 2026-04-05T21:03:13.765085
+added: 2026-04-06T00:14:49.238495
 priority: 6.5
 bucket: unknown
 tags: 

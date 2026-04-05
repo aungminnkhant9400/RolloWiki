@@ -2,7 +2,7 @@
 id: bookmark_ca7c5d4e4afa
 url: https://x.com/spencerguard/status/2038110363749872014?s=46
 source: x
-added: 2026-04-05T21:03:13.772806
+added: 2026-04-06T00:14:49.249951
 priority: 4.5
 bucket: unknown
 tags: 

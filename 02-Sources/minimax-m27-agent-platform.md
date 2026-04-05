@@ -2,7 +2,7 @@
 id: bookmark_minimax_agent
 url: https://x.com/minimaxagent/status/2034237018113208619?s=46
 source: x
-added: 2026-04-05T21:03:13.777820
+added: 2026-04-06T00:14:49.257060
 priority: 4.0
 bucket: unknown
 tags: 

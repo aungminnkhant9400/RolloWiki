@@ -2,7 +2,7 @@
 id: bookmark_ac2c27933024
 url: https://github.com/buildoak/tennis-xgboost-autoresearch
 source: article
-added: 2026-04-05T21:03:13.769936
+added: 2026-04-06T00:14:49.246599
 priority: 6.5
 bucket: unknown
 tags: 

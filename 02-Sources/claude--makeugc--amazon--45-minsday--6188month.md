@@ -2,7 +2,7 @@
 id: bookmark_272d9d7b4a1f
 url: https://x.com/georgesttock/status/2036819673166045664?s=46
 source: x
-added: 2026-04-05T21:03:13.763889
+added: 2026-04-06T00:14:49.237541
 priority: 6.5
 bucket: unknown
 tags: 

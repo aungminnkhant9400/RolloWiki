@@ -2,7 +2,7 @@
 id: bookmark_f83b99fccf6c
 url: https://decrypt.co/362410/nvidia-class-action-lawsuit-alleged-crypto-mining-revenue-gaps
 source: article
-added: 2026-04-05T21:03:13.776258
+added: 2026-04-06T00:14:49.255696
 priority: 3.0
 bucket: unknown
 tags: 
